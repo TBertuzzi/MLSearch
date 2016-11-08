@@ -1,0 +1,11 @@
+D:\Data\Fontes\Exemplos\MLSearch\MLSearch\bin\Debug\MLSearch.exe.config
+D:\Data\Fontes\Exemplos\MLSearch\MLSearch\bin\Debug\MLSearch.exe
+D:\Data\Fontes\Exemplos\MLSearch\MLSearch\bin\Debug\MLSearch.pdb
+D:\Data\Fontes\Exemplos\MLSearch\MLSearch\bin\Debug\RestSharp.dll
+D:\Data\Fontes\Exemplos\MLSearch\MLSearch\bin\Debug\RestSharp.xml
+D:\Data\Fontes\Exemplos\MLSearch\MLSearch\obj\Debug\MLSearch.csprojResolveAssemblyReference.cache
+D:\Data\Fontes\Exemplos\MLSearch\MLSearch\obj\Debug\MLSearch.frmMain.resources
+D:\Data\Fontes\Exemplos\MLSearch\MLSearch\obj\Debug\MLSearch.Properties.Resources.resources
+D:\Data\Fontes\Exemplos\MLSearch\MLSearch\obj\Debug\MLSearch.csproj.GenerateResource.Cache
+D:\Data\Fontes\Exemplos\MLSearch\MLSearch\obj\Debug\MLSearch.exe
+D:\Data\Fontes\Exemplos\MLSearch\MLSearch\obj\Debug\MLSearch.pdb
